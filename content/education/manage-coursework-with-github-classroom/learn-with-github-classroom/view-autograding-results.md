@@ -25,6 +25,13 @@ You can click a specific test run to review log output, like compilation errors 
 
 ![The "{% data variables.product.prodname_classroom %} Autograding Workflow" test results logs in {% data variables.product.prodname_actions %} ](/assets/images/help/classroom/autograding-actions-logs.png)
 
+## Downloading autograding results
+
+You can also download a CSV of your students' autograding scores via the "Download" button. This will generate and download a CSV containing a link to the student's repository, their GitHub handle, roster identifier, submission timestamp, and autograding score.
+
+!["Download" button selected showing "Download grades highlighted" and an additional option to "Download repositories"](/assets/images/help/classroom/download-grades.png)
+
+
 ## Further reading
 
 - "[About status checks](/github/collaborating-with-issues-and-pull-requests/about-status-checks)"
